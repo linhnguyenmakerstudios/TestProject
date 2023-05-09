@@ -1,0 +1,6 @@
+Test.sln
+.vsconfig
+Library/
+Logs/
+Temp/
+UserSettings/
